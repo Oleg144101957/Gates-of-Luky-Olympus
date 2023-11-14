@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737412485047",
+    "project_id": "gates-of-luky-olympus",
+    "storage_bucket": "gates-of-luky-olympus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737412485047:android:fa55ace43d0ae936cde232",
+        "android_client_info": {
+          "package_name": "ua.hyperbeard.idlepocketplanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737412485047-2shv7m8cokfvpck50jm891btd5nellum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPh-TFUWPlT1ESYxTGvkjbcMjCnsHT7B4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737412485047-2shv7m8cokfvpck50jm891btd5nellum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
